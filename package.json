@@ -1,0 +1,22 @@
+{
+  "name": "dd-test-gh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/42Mines/dd-gh-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/42Mines/dd-gh-test/issues"
+  },
+  "homepage": "https://github.com/42Mines/dd-gh-test#readme",
+  "dependencies": {
+    "express": "^3.10.1"
+  }
+}
